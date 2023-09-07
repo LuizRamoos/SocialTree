@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FAF7FD;
+}
+
+a {
+    text-decoration: none;
+}
+
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+  }
+
+  .icon-box {
+    margin: 0 auto;
+    padding: 105px 591px 33px;
+    display: block;
+
+}
+
+.icon {
+    width: 297px;
+    height: 258px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    display: block;
+    margin: 0 auto;
+    background: cover no-repeat;
+}
+
+.id {
+    color: #B9D;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin: 15px;
+    padding: auto;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.link-1 {
+    width: 326px;
+    height: 49px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    border: 2px solid #B9D;
+    text-align: center;
+    margin: 16px auto;
+}
+
+.link-1 p {
+    color: #B9D;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 12px;
+}
+
+.link-2 {
+    width: 326px;
+    height: 49px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    border: 2px solid #B9D;
+    text-align: center;
+    margin: 16px auto;
+}
+
+.link-2 p {
+    color: #B9D;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 12px;
+}
+
+.link-3 {
+    width: 326px;
+    height: 49px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    border: 2px solid #B9D;
+    text-align: center;
+    margin: 16px auto;
+}
+
+.link-3 p {
+    color: #B9D;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 12px;
+}
+
+.link-4 {
+    width: 326px;
+    height: 49px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    border: 2px solid #B9D;
+    text-align: center;
+    margin: 16px auto;
+}
+
+.link-4 p {
+    color: #B9D;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 12px;
+}
+
+#icon-links {
+    display: flex;
+    justify-content: center;
+    gap: 29px;
+    padding: 68px 0;
+}
